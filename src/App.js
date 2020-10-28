@@ -31,7 +31,7 @@ function App() {
     }
 
 
-  },[gasto])
+  },[gasto, creargasto,gastos, restante])
 
 
 
